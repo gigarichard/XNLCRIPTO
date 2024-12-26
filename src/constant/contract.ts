@@ -6,7 +6,7 @@ export const CONTRACT = {
   taxPercentage: 0,
   ownershipRenounced: true,
   description:
-    'GiGARICHARD is a community made and owned Crypto currency project. We are aspiring to become the new high quality standard within the Crypto Space. A group of like minded individuals have come together to create the new golden standard of what a community should have to offer. We have a 5% tax on both buy and sell orders. We are in no way affiliated with Baby or the Baby family. However, we will be donating 5% of our marketing budget to the Baby campaign.',
+    '$GIGRICHARD aka the marshmallow of Solana, is a memecoin built on the strength of its community. The success of the project is driven by the collective energy, creativity, and support of its members. With the community at its core, this project aims to turn a fun idea into something bigger, proving that together, anything is possible.',
   partners: [
     {
       name: 'PinkSale',
