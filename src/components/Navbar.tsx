@@ -42,9 +42,7 @@ export default function Navbar() {
           <Link href='#tokenomics' className='hidden md:block flex-1'>
             Tokenomics
           </Link>
-          <Link href='#partners' className='hidden md:block flex-1'>
-            Partners
-          </Link>
+          
           <Link href='#socials' className='hidden md:block flex-1'>
             Socials
           </Link>
