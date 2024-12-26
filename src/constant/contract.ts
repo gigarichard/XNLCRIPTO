@@ -16,9 +16,9 @@ export const CONTRACT = {
     { name: 'DEXView', url: 'https://www.dexview.com', imgUrl: '/dexview.svg' },
     { name: 'Binance', url: 'https://www.dexview.com', imgUrl: '/dexview.svg' },
   ],
-  telegram: 'https://t.me/UnKnOwNcHanNeL',
-  twitter: 'https://twitter.com/UnKnOwNcHanNeL',
-  discord: 'https://discord.com/UnKnOwNcHanNeL',
+  telegram: 'https://t.me/gigarichard',
+  twitter: 'https://x.com/GigaRichardsol',
+
   logo1: '/Snoppy1.png',
   logo2: '/Snoppy2.png',
   logo3: '/Snoppy3.png',

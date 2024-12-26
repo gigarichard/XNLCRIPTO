@@ -27,9 +27,7 @@ export default function Socials() {
             <Link href={CONTRACT.twitter}>
               <FaTwitter className='size-16 lg:size-24 transform hover:scale-110 transition duration-200 fill-blue-400' />
             </Link>
-            <Link href={CONTRACT.discord}>
-              <FaDiscord className='size-16 lg:size-24 transform hover:scale-110 transition duration-200 fill-purple-500' />
-            </Link>
+          
           </div>
         </div>
       </div>
