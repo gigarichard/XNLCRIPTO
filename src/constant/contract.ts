@@ -6,7 +6,7 @@ export const CONTRACT = {
   taxPercentage: 0,
   ownershipRenounced: true,
   description:
-    '$GIGRICHARD aka the marshmallow of Solana, is a memecoin built on the strength of its community. The success of the project is driven by the collective energy, creativity, and support of its members. With the community at its core, this project aims to turn a fun idea into something bigger, proving that together, anything is possible.',
+    '$GIGRICHARD, is a memecoin built on the strength of its community. The success of the project is driven by the collective energy, creativity, and support of its members. With the community at its core, this project aims to turn a fun idea into something bigger, proving that together, anything is possible.',
   partners: [
     {
       name: 'PinkSale',
