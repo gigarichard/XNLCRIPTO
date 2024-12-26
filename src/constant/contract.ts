@@ -9,8 +9,8 @@ export const CONTRACT = {
     '$GIGRICHARD, is a memecoin built on the strength of its community. The success of the project is driven by the collective energy, creativity, and support of its members. With the community at its core, this project aims to turn a fun idea into something bigger, proving that together, anything is possible.',
   partners: [
     {
-      name: 'PinkSale',
-      url: 'https://www.pinksale.finance',
+      name: '',
+      url: '',
       imgUrl: '/pinksale.png',
     },
     { name: 'DEXView', url: 'https://www.dexview.com', imgUrl: '/dexview.svg' },

@@ -32,9 +32,9 @@ export default function Tokenomics() {
           {CONTRACT.ownershipRenounced && (
             <div className='p-6 border-4 border-zinc-900 rounded-lg shadow-md'>
               <h2 className='text-3xl font-bold mb-4 text-zinc-900'>
-                Contract ownership is{' '}
+              Liquidity is {' '}
                 <span className='text-transparent bg-text-gradient-1 bg-clip-text font-extrabold'>
-                  renounced
+                LOCKED
                 </span>
               </h2>
             </div>
