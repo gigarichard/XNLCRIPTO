@@ -1,7 +1,7 @@
 export const CONTRACT = {
   name: 'GiGARICHARD',
   symbol: 'GIGRICHARD',
-  ca: '0x0000000000000000000000000000000000000000',
+  ca: 'C8wV9hSdx5J2ekDPsX5WaKdpYNZJTZhKq8kiAhLs3gys',
   totalSupply: 10000000000,
   taxPercentage: 0,
   ownershipRenounced: true,
