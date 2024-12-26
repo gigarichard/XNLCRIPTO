@@ -12,7 +12,7 @@ export default function Home() {
         <Hero />
         <About />
         <Tokenomics />
-        <Partners />
+       
         <Socials />
       </MaxWidthWrapper>
     </>
