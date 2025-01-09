@@ -37,7 +37,7 @@ export default function Hero() {
           </div>
         </h1>
         <Link
-          href={`https://pancakeswap.finance/swap?outputCurrency=${CONTRACT.ca}`}
+          href={`https://t.me/gigarichard`}
           target='_blank'
           className='w-full md:w-1/2 lg:w-1/2'
         >
@@ -62,7 +62,7 @@ export default function Hero() {
           </div>
           <CopyButton value={`${process.env.NEXT_PUBLIC_CA}`} />
         </div>
-        <Link href='#' target='_blank'>
+        <Link href='https://t.me/gigarichard' target='_blank'>
           <p className='text-xl lg:text-2xl text-zinc-900 underline'>AUDIT</p>
         </Link>
       </div>
