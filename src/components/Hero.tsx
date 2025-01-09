@@ -63,7 +63,7 @@ export default function Hero() {
           <CopyButton value={`${process.env.NEXT_PUBLIC_CA}`} />
         </div>
         <Link href='https://t.me/gigarichard' target='_blank'>
-          <p className='text-xl lg:text-2xl text-zinc-900 underline'>AUDIT</p>
+          <p className='text-xl lg:text-2xl text-zinc-900 underline'>Start on the 15th of the month.</p>
         </Link>
       </div>
 
