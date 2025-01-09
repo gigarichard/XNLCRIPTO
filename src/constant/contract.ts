@@ -1,5 +1,5 @@
 export const CONTRACT = {
-  name: 'GiGARICHARD',
+  name: 'GiGA RICHARD',
   symbol: 'GIGRICHARD',
   ca: 'C8wV9hSdx5J2ekDPsX5WaKdpYNZJTZhKq8kiAhLs3gys',
   totalSupply: 10000000000,
@@ -13,8 +13,8 @@ export const CONTRACT = {
       url: '',
       imgUrl: '/pinksale.png',
     },
-    { name: 'DEXView', url: 'https://www.dexview.com', imgUrl: '/dexview.svg' },
-    { name: 'Binance', url: 'https://www.dexview.com', imgUrl: '/dexview.svg' },
+    { name: 'DEXView', url: 'https://t.me/gigarichard', imgUrl: '/dexview.svg' },
+    { name: 'Binance', url: 'https://t.me/gigarichard', imgUrl: '/dexview.svg' },
   ],
   telegram: 'https://t.me/gigarichard',
   twitter: 'https://x.com/GigaRichardsol',
