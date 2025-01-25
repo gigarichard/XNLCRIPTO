@@ -20,6 +20,44 @@ export default function Hero() {
         />
       </div>
 
+
+
+<head>
+
+  {/* Meta Pixel Code */}
+  <script
+            async
+            dangerouslySetInnerHTML={{
+              __html: `
+                !function(f,b,e,v,n,t,s){
+                  if(f.fbq)return;n=f.fbq=function(){
+                    n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)
+                  };
+                  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                  n.queue=[];t=b.createElement(e);t.async=!0;
+                  t.src=v;s=b.getElementsByTagName(e)[0];
+                  s.parentNode.insertBefore(t,s)
+                }(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+                fbq('init', '1823113451561684');
+                fbq('track', 'PageView');
+              `,
+            }}
+          />
+          <noscript>
+            <img
+              height="1"
+              width="1"
+              style={{ display: 'none' }}
+              src="https://www.facebook.com/tr?id=1823113451561684&ev=PageView&noscript=1"
+            />
+          </noscript>
+          {/* End Meta Pixel Code */}
+
+
+
+</head>
+
+
       {/* Hero Text and CTA Section */}
       <div className="text-white w-full md:w-1/3 lg:w-1/2 flex flex-col justify-center items-center gap-10">
         <h1 className="text-3xl text-center lg:text-5xl font-extrabold break-words lg:px-4 mt-6 lg:mt-0 text-zinc-900">
