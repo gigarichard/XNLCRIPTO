@@ -24,6 +24,8 @@ export default function Hero() {
 
 <head>
 
+<meta name="facebook-domain-verification" content="j420uoe2ml198it8hyppx9psn554bv" />
+
   {/* Meta Pixel Code */}
   <script
             async
