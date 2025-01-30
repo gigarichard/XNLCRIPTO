@@ -64,8 +64,8 @@ export default function Navbar() {
         {isOpen && (
           <div className='md:hidden'>
             <div className='absolute inset-x-0 flex flex-col space-y-2 bg-white/95 backdrop-blur-lg text-xs px-4 pb-4'>
-              <Link href='#about'>About</Link>
-              <Link href='#tokenomics'>Tokenomics</Link>
+              <Link href='#about'>Hakkında</Link>
+              <Link href='#tokenomics'>Tokenomik</Link>
             
               <Link href='#socials'>Socials</Link>
               <Link href={CONTRACT.telegram} target='_blank'>
