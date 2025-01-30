@@ -6,7 +6,7 @@ export const CONTRACT = {
   taxPercentage: 0,
   ownershipRenounced: true,
   description:
-    '$GIGRICHARD, Topluluğunun gücüyle inşa edilen bir memecoin dir. Projenin başarIsI, üyelerinin ortak enerjisi, yaratıcılığı ve desteğiyle yönlendirilir. Topluluğu merkezine alarak, bu proje eğlenceli bir fikri daha büyük bir şeye dönüştürmeyi ve birlikte her şeyin mümkün olduğunu kanıtlamayı amaçlıyor'
+    '$GIGRICHARD, Topluluğunun gücüyle inşa edilen bir memecoin dir. Projenin başarsI, üyelerinin ortak enerjisi, yaratıcılığı ve desteğiyle yönlendirilir. Topluluğu merkezine alarak, bu proje eğlenceli bir fikri daha büyük bir şeye dönüştürmeyi ve birlikte her şeyin mümkün olduğunu kanıtlamayı amaçlıyor',
   partners: [
     {
       name: '',
