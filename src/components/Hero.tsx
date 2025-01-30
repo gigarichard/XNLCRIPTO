@@ -100,7 +100,7 @@ export default function Hero() {
         </div>
 
         <Link href="https://t.me/gigarichard" target="_blank">
-          <p className="text-xl lg:text-2xl text-zinc-900 underline">Official presale on january 30</p>
+          <p className="text-xl lg:text-2xl text-zinc-900 underline">Resmi ön satış 30 Ocak'ta</p>
         </Link>
       </div>
     </AnimatedSection>
