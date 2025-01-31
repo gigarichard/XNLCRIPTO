@@ -18,7 +18,7 @@ export default function Socials() {
 
         <div className='w-full md:w-1/2 mx-4 px-4'>
           <h2 className='text-center md:text-left text-3xl lg:text-5xl font-extrabold mb-8 text-zinc-900   '>
-          Takip et {CONTRACT.name} on social media
+          Takip et {CONTRACT.name} sosyal medyada
           </h2>
           <div className='flex items-center justify-center md:justify-start gap-4'>
             <Link href={CONTRACT.telegram}>

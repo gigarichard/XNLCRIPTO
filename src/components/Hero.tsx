@@ -63,7 +63,7 @@ export default function Hero() {
       {/* Hero Text and CTA Section */}
       <div className="text-white w-full md:w-1/3 lg:w-1/2 flex flex-col justify-center items-center gap-10">
         <h1 className="text-3xl text-center lg:text-5xl font-extrabold break-words lg:px-4 mt-6 lg:mt-0 text-zinc-900">
-          Welcome to <br />
+        Hoş geldiniz <br />
           <div className="typewriter-oneline">
             <span className="text-center text-4xl lg:text-7xl text-transparent glow-text bg-text-gradient-1 bg-clip-text">
               {CONTRACT.name}
@@ -80,7 +80,7 @@ export default function Hero() {
             type="button"
             className="text-zinc-900 flex justify-center gap-x-2 items-center w-full border-black hover:bg-black hover:text-white border focus:outline-none focus:ring-4 focus:ring-white font-medium rounded-full text-lg px-5 py-2.5 me-2 mb-2"
           >
-            BUY
+            Satın al
             <FiExternalLink className="size-6" />
           </button>
         </Link>
@@ -100,7 +100,7 @@ export default function Hero() {
         </div>
 
         <Link href="https://t.me/gigarichard" target="_blank">
-          <p className="text-xl lg:text-2xl text-zinc-900 underline">Resmi ön satış 30 Ocak'ta</p>
+          <p className="text-xl lg:text-2xl text-zinc-900 underline">Resmi ön satış 10 Şubat'ta</p>
         </Link>
       </div>
     </AnimatedSection>

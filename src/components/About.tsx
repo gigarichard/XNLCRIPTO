@@ -9,7 +9,7 @@ export default function About() {
     <AnimatedSection id='about' className='shadow-2xl py-16'>
       <div className='flex flex-col items-center justify-center mx-5 lg:mx-20 gap-5'>
         <p className='text-4xl lg:text-5xl font-extrabold text-center  text-zinc-900 '>
-          Introducing
+        Giriş
           {` ${CONTRACT.name} ($${CONTRACT.symbol})`}
         </p>
         <div className='hero flex flex-col-reverse justify-between lg:flex-row items-center mx-5 lg:mx-10'>
