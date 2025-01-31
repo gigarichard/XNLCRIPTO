@@ -37,14 +37,14 @@ export default function Navbar() {
           </div>
 
           <Link href='#about' className='hidden md:block flex-1'>
-            About
+          Hakkında
           </Link>
           <Link href='#tokenomics' className='hidden md:block flex-1'>
-            Tokenomics
+          Tokenomik
           </Link>
           
           <Link href='#socials' className='hidden md:block flex-1'>
-            Socials
+          Sosyal Medya
           </Link>
           <Link
             href={CONTRACT.telegram}
