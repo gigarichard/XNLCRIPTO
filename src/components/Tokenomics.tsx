@@ -25,7 +25,7 @@ export default function Tokenomics() {
           </div>
 
           <div className='p-6 border-4 border-zinc-900 rounded-lg shadow-md'>
-            <h2 className='text-3xl font-bold mb-4 text-zinc-900'>Tax</h2>
+            <h2 className='text-3xl font-bold mb-4 text-zinc-900'>Vergi</h2>
             <p className='pt-5'>{CONTRACT.taxPercentage}%</p>
           </div>
 

@@ -7,8 +7,7 @@ export default function Footer() {
     <footer className='bg-gray-900 text-white py-4 text-center mt-10'>
       <MaxWidthWrapper>
         <p className='text-sm text-white'>
-          Copyright {CONTRACT.name} © {new Date().getFullYear()}. All rights
-          reserved
+        Telif Hakkı {CONTRACT.name} © {new Date().getFullYear()}. Tüm hakları saklıdır
         </p>
       </MaxWidthWrapper>
     </footer>
